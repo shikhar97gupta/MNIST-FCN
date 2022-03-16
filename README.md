@@ -1,2 +1,2 @@
 # MNIST-FCN
-Train MNIST dataset with Fully Connected Network built using Numpy from scratch. 
+Train MNIST dataset with Fully Connected Network built from scratch using Numpy. 
